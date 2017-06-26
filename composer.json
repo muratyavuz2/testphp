@@ -3,7 +3,7 @@
   "description": "PHP",
   "minimum-stability": "dev",
   "license": "MIT",
-  "type": "library",
+  "type": "kadid-framework",
   "authors": [
     {
       "name": "fdas",
@@ -20,5 +20,10 @@
         "preferred-install": "dist",
         "sort-packages": true,
         "optimize-autoloader": true
+    }
+      "extra": {
+        "installer-paths": {
+            "src": ["kadid-framework"]
+        }
     }
 }
