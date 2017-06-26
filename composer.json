@@ -1,0 +1,15 @@
+{
+  "name": "muratp",
+  "description": "PHP",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "fdas",
+      "email": "nacev@lucyu.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Murat\\": "src/"}
+  }
+}
