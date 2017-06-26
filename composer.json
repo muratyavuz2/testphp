@@ -12,5 +12,10 @@
   ],
   "autoload": {
     "psr-4": {"Murat\\": "src/"}
-  }
+  },
+      "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
 }
