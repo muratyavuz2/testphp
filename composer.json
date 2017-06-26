@@ -1,8 +1,9 @@
 {
   "name": "muratyavuz2/testphp",
   "description": "PHP",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
+  "type": "project",
   "authors": [
     {
       "name": "fdas",
