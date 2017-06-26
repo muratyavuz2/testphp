@@ -3,7 +3,7 @@
   "description": "PHP",
   "minimum-stability": "dev",
   "license": "MIT",
-  "type": "project",
+  "type": "library",
   "authors": [
     {
       "name": "fdas",
